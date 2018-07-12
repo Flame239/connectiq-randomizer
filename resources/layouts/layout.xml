@@ -1,0 +1,4 @@
+<layout id="MainLayout">
+    <label id="text" x="center" y="10" text="@Strings.prompt" color="Gfx.COLOR_GREEN" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+    <bitmap id="dice" x="center" y="50" filename="../drawables/dice_transp.png" />
+</layout>
